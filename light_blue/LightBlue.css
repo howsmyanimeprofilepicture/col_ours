@@ -1,8 +1,7 @@
 :root {
-    --main-color: #929FED;
-    --lighter-color: #BEC6F4;
-    --darker-color: #808EDA;
-    --more-darker-color: #6070BA;
-    --complementary-color: #FFC5D0;
-    --purple-color: #994CC3;
+    --main: #929FED;
+    --lighter: #BEC6F4;
+    --darker: #808EDA;
+    --more-darker: #6070BA;
+    --complementary: #FFC5D0;
 }
