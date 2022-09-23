@@ -7,3 +7,4 @@ class LIGHT_BLUE(Enum):
     darker = "#808EDA"
     more_darker = "#6070BA"
     complementary = "#FFC5D0"
+    purple = "#994CC3"
